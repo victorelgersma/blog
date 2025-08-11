@@ -2,7 +2,6 @@
 layout: post
 title: Check if a key exists in a hash
 date: 2025-08-11 19:03 +0100
-categories: [coding]
 tags: [ruby]
 ---
 
