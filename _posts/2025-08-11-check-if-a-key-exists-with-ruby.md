@@ -7,6 +7,6 @@ tags: [ruby]
 
 ```ruby
 my_dict = {"apples" => 3, "pears" => 2}
-puts my_dict.key?("apples") // true
-puts my_dict.key?("oranges") // false
+puts my_dict.key?("apples") # true
+puts my_dict.key?("oranges") # false
 ```
