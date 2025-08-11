@@ -44,6 +44,11 @@ This work is published under [MIT][mit] License.
 
 ## Victor's notes
 
+Run dev server:
+
+```
+bundle exec jekyll s 
+```
 Creat a new post with:
 
 ```sh
@@ -59,3 +64,4 @@ bundle exec jekyll draft "My new draft"
 ## Docs
 
 https://chirpy.cotes.page/posts/write-a-new-post/
+# swimming
