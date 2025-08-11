@@ -52,7 +52,7 @@ bundle exec jekyll s
 Creat a new post with:
 
 ```sh
-bundle exec jekyll page "My New Page"
+bundle exec jekyll post "My New Page"
 ```
 
 Or create a draft with 
