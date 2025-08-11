@@ -41,3 +41,21 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Victor's notes
+
+Creat a new post with:
+
+```sh
+bundle exec jekyll page "My New Page"
+```
+
+Or create a draft with 
+
+```sh
+bundle exec jekyll draft "My new draft"
+```
+
+## Docs
+
+https://chirpy.cotes.page/posts/write-a-new-post/
