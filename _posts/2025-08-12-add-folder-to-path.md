@@ -5,12 +5,8 @@ date: 2025-08-12 18:43 +0100
 tags: [zsh]
 ---
 
-To add a folder to your `PATH`, simply add 
+To add a folder to your `PATH`, add the following to your zsh config: 
 
-Adding an executable to my path (using zsh)
-
-To add `/foo/bar` to my `PATH`
-Add the following to your zsh config: 
 ```zsh
 # ~/.zshrc
 export PATH="$PATH:/foo/bar"
