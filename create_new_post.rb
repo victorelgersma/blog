@@ -24,10 +24,13 @@ DATESTAMP = Time.now.strftime("%Y-%m-%d")
 filename = "#{DATESTAMP}-#{sanitised_title}.md"
 
 puts "The title is #{title}"
+filepath = File.join(__dir__, "_posts", filename)
 
-File.open(File.join(__dir__, "_posts", filename), "w") do |f|
+File.open(filepath, "w") do |f|
   # TODO f.write(frontmatter)
   f.write("# #{title}")
 end
 
+puts "it is located at"
+puts filepath
 
