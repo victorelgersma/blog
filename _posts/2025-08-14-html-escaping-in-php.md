@@ -1,5 +1,6 @@
 ---
 title: html escaping in PHP
+tags: [php]
 ---
 
 Use `htmlspecialchars()` for this:

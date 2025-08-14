@@ -1,6 +1,6 @@
 ---
 title: Find which process is listening on PORT 4000
-tags: [unix]
+tags: [linux]
 ---
 
 Use the following:

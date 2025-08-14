@@ -1,5 +1,6 @@
 ---
 title: SSH'ing into a server
+tags: [ssh]
 ---
 
 Use the ssh command and pass in your public key, as well as the IP address of the machine you want to log in to.

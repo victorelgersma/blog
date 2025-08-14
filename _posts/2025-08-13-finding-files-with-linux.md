@@ -1,5 +1,6 @@
 ---
 title: Finding files with linux
+tags: [linux]
 ---
 
 Use the `find` command:

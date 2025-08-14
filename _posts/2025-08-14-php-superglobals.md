@@ -1,5 +1,6 @@
 ---
 title: PHP Superglobals
+tags: [php]
 ---
 
 A collection of useful superglobals
