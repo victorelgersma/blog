@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: victorcodes # the main title
+title: azmanov # the main title
 
 tagline: Victor Elgersma's blog # it will display as the subtitle
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://victorelgersma.github.io'
 
 github:
   username: victorelgersma # change to your GitHub username
