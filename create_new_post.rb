@@ -17,7 +17,11 @@ today = Date.today.iso8601
 # ---
 
 puts "Enter title"
-title = gets
+title = gets.chomp.downcase
+puts "Enter tag 1"
+tag1 = gets.chomp.downcase
+puts "Enter tag 2"
+tag2 = gets.chomp.downcase
 
 sanitised_title = title.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
 
@@ -29,6 +33,7 @@ filepath = File.join(__dir__, "_posts", filename)
 File.open(filepath, "w") do |f|
   f.puts("---")
   f.puts("title: #{title}")
+  f.puts("tags: [#{tag1}, #{tag2}]")
   f.puts("---")
 end
 
