@@ -1,4 +1,6 @@
-# Finding files with linux
+---
+title: Finding files with linux
+---
 
 Use the `find` command:
 

@@ -1,4 +1,6 @@
-# Writing to a file in ruby
+---
+title: Writing to a file in ruby
+---
 
 ```ruby 
 filename = File.join(__dir__, "example.txt")
