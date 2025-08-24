@@ -1,1 +1,2 @@
-rsync -avz _site/ root@91.98.78.255:/var/www/html/blog/
+rsync -avz _site/ root@$VPS_SERVER_IP_ADDR:/var/www/victorelgersma.ddns.net/html/blog
+

@@ -1,6 +1,6 @@
 ---
 title: php resources
-tags: [php, evergreen]
+tags: [php, list]
 ---
 
 Learn X in Y Minutes - PHP
