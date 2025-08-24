@@ -1,9 +1,9 @@
 ---
-title: read from env vars in ruby
+title: Ruby Environment Variables
 tags: [ruby ]
 ---
 
-To read from an env var in ruby:
+Read the $PATH environment variable in ruby:
 
 ```ruby
 puts ENV["PATH"]
