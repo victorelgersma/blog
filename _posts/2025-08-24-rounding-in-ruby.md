@@ -1,13 +1,14 @@
 ---
-title: rounding in ruby
+title: Ruby float methods
 tags: [ruby]
 ---
 
-Round to x decimal places as follows:
+## Rounding with `.round`:
 
 ```ruby
-number = 3.1415926 # 3.1415926
-number.round(2) # 3.14
+my_float = 3.1415926 
+my_float.round(2)
+=> # 3.14
 ```
 
 
