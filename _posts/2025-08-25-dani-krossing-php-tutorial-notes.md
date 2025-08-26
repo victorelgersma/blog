@@ -13,3 +13,10 @@ These are notes from the "PHP Course for Beginners"
 - every time you grab data from a user, make sure to use the `htmlspecialchars` function to sanitize user data
 - send the user back to the front page with a header: header("Location: ../index.php");
 - the `exit()` function in PHP to quit the execution of a script (like `exit` in bash)
+
+## 7. PHP operators
+
+- basically what you’d expect, except string concatenation is done with ` . `, instead of `+` 
+- The assignment operator is `=` and the comparison operator is `==`
+- Just like JavaScript it has the weak comparison (`==`) and a strong comparison operator (`===`)
+- != can also be written `<>`
