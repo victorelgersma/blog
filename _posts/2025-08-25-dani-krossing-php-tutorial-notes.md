@@ -16,7 +16,7 @@ These are notes from the "PHP Course for Beginners"
 
 ## 7. PHP operators
 
-- basically what you’d expect, except string concatenation is done with ` . `, instead of `+` 
+- basically what you’d expect, except string concatenation is done with `.` not `+` 
 - The assignment operator is `=` and the comparison operator is `==`
 - Just like JavaScript it has the weak comparison (`==`) and a strong comparison operator (`===`)
-- != can also be written `<>`
+- `!=` can also be written `<>`
