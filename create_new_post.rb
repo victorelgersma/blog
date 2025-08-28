@@ -45,5 +45,6 @@ File.open(filepath, "w") do |f|
   f.puts("---")
 end
 
-puts "to open it run"
-puts "vim #{filepath}"
+puts "opening #{filepath} with vim"
+system("vim #{filepath}")
+puts "Vim has exited!"
