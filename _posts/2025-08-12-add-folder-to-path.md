@@ -2,23 +2,18 @@
 layout: post
 title: Add folder to PATH
 date: 2025-08-12 18:43 +0100
-tags: [zsh]
+collection: [snippets]
+tags: [sh]
 ---
 
-To add a folder to your `PATH`, add the following to your zsh config: 
+To add a folder to your `PATH`, add the following to your bash config: 
 
-```zsh
-# ~/.zshrc
+```sh
 export PATH="$PATH:/foo/bar"
 ```
-Then run
 
-```zsh
-source ~/.zshrc
-```
+To check what is on your path, run:
 
-To check what's on your path, run 
-
-```zsh
+```sh
 echo $PATH
 ```

@@ -4,7 +4,7 @@ category: [snippets]
 tags: [grep, bash]
 ---
 
-This will print out all the files starting with the word 'alias' and append them to the ~/.aliases file
+Print out all the files starting with the word 'alias' and append them to the ~/.aliases file
 
 ```sh
 grep '^alias ' ~/.zshrc >> ~/.aliases
