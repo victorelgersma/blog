@@ -6,7 +6,7 @@ tags: [linux]
 
 When copying an entire directory dir1 to another directory dir2, use the `cp` command with the `-r` flag, i.e:
 
-```
+```sh
 $ ls 
 file1
 $ cp -r file1 file2
