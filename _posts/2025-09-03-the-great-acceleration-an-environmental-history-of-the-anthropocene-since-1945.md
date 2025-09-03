@@ -23,14 +23,12 @@ Definition: human action becomes the most important factor governing the major b
 
 ### Chapter 1: Energy and Population
 
-- every energy technology results in the loss of some useful energy
-
-The following technological discoveries allowed us to tap into new stores of energy
-
-- fire (chemical energy store in meat, wood, biomass)
-- agriculture (chemical energy in grass)
-- windmills and water mills (wind, water kinetic energy)
-- we can burn coal now (500 million year's worth of prior photosynthesis)
+- every energy conversion results in the loss of some useful energy
+- Human history can be described in 'jumps' in which we discover how to tap into new stores of energy
+    - fire (chemical energy store in meat, wood, biomass)
+    - agriculture (chemical energy in grass)
+    - windmills and water mills (wind, water kinetic energy)
+    - we can burn coal now (500 million year's worth of prior photosynthesis)
 
 ## Terms
 
