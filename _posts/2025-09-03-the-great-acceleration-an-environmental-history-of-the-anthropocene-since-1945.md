@@ -25,15 +25,17 @@ Definition: human action becomes the most important factor governing the major b
 
 - every energy technology results in the loss of some useful energy
 
+The following technological discoveries allowed us to tap into new stores of energy
+
+- fire (chemical energy store in meat, wood, biomass)
+- agriculture (chemical energy in grass)
+- windmills and water mills (wind, water kinetic energy)
+- we can burn coal now (500 million year's worth of prior photosynthesis)
+
 ## Terms
 
 The Great Acceleration - time since 1945 in which humans have shaped the climate by affecting 3 major biogeochemical cycles
 
 Biota - the full set of living things in an area
 
-Technologies that increased the amount of energy we could harvest:  (i.e they convert a 'useless' store of energy into a 'useful' one)
-
-- fire allows humans to harness more energy
-- agriculture 
-- windmills and water mills
 
