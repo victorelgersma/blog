@@ -19,3 +19,9 @@ enter yes
 You should now be connected via SSH to your machine! 
 
 to exit the ssh connection, type `exit`
+
+## Creating a new SSH key
+
+```sh
+ssh-keygen -t ed25519 -C "thinkpad" 
+```
