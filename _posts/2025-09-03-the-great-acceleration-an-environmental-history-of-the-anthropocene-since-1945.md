@@ -17,7 +17,6 @@ tags: [History]
 
 - The Holocene is the most recent geologic epoch, spanning the last approximately 11,700 years, from the end of the last major ice age to the present day. 
 - **Anthropocene** coined by Paul Crtuzen in 1995.
-- This term was coined by Paul Crutzen in 1995
 - Factors defining anthropocene:
   - Release of greenhouse gases
   - Massive population growth
