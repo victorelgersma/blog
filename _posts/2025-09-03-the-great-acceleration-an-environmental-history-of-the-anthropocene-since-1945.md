@@ -1,7 +1,6 @@
 ---
 title: "Book Notes: Engelke & McNeill, 2014, The Great Acceleration - An Environmental History Since 1945"
 category: [Book Notes]
-published: false
 tags: [History]
 ---
 
