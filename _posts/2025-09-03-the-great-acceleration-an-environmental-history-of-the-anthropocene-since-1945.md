@@ -4,9 +4,7 @@ category: [Book Notes]
 tags: [History]
 ---
 
-# Engelke & McNeill, The great acceleration - an environmental history since 1945 - Notes
-
-# The authors argue
+## The authors argue
 
 - the great acceleration should mark the start of the anthropocene
 - the anthropocene will continue a long time, but the great acceleration is bound to fizzle out soon 
