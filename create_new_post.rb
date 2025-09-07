@@ -25,7 +25,7 @@ puts "Enter tag 1"
 tag1 = gets.chomp.downcase
 puts "Enter tag 2"
 tag2 = gets.chomp.downcase
-puts "draft? (Y/n)"
+puts "draft? (y/n)"
 draft = gets.chomp
 
 tags = [tag1,tag2].reject{|tag| tag.empty?}
