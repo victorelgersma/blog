@@ -1,6 +1,7 @@
 ---
 title: "the great acceleration: an environmental history of the anthropocene since 1945"
 category: [book]
+published: false
 tags: [energy, reading, 'john robert mcneill']
 ---
 
