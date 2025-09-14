@@ -47,5 +47,5 @@ File.open(filepath, "w") do |f|
 end
 
 puts "opening #{filepath} with vim"
-system("vim #{filepath}")
+system("vim +$ #{filepath}")
 puts "Vim has exited!"
