@@ -7,4 +7,4 @@ draft: true
 ---
 
 Thermal equilibrium
-: a system is in thermal equilibrium if there are no temperature gradients within it. A system is in thermal equilibrium with its surroundings if $ T_sys = T_surroundings $.
+: a system is in thermal equilibrium if there are no temperature gradients within it. A system is in thermal equilibrium with its surroundings if $ T_{sys} = T_{surroundings} $.
