@@ -6,6 +6,9 @@ math: true
 draft: true
 ---
 
+
+## Basics
+
 Thermal equilibrium
 : a system is in thermal equilibrium if there are no temperature gradients within it. A system is in thermal equilibrium with its surroundings if $ T_{sys} = T_{surroundings} $.
 
@@ -15,3 +18,10 @@ S_{surroundings}$. Any increase in the entropy of the system due to heat transfe
 
 Ideal cycle:
 : A cycle consists of processes. In an ideal cycle, every process in the cycle is reversible.
+
+## Rankine Cycle
+Subcritical Rankine cycle:
+: The working fluid has $p<p_c$ and $T < T_c$ meaning it is a 2-phase mixture. 
+
+Deaerator
+: A device which removes gases from liquid water after it comes out of the condenser.
