@@ -2,6 +2,7 @@
 title: notes on cengel & boles
 category: []
 tags: []
+math: true
 ---
 
 ## Chapter 6: The Second Law
