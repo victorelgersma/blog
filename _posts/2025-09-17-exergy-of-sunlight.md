@@ -2,6 +2,7 @@
 title: exergy of sunlight
 category: []
 tags: [energy]
+math: true
 ---
 
 The exergy of sunlight is the maximum amount of **work potential** that could be
