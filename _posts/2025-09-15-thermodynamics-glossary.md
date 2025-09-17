@@ -62,10 +62,3 @@ Dead state
 Unavailable energy
 : the portion of energy that cannot be converted to work by even a reversible heat engine.
 
-
-$$
-W_p = \eta_{carnot} * W 
-\\
-W_p = \eta_{carnot} * W 
-
-$$
