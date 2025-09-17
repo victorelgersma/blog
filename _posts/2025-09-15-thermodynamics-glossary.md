@@ -15,12 +15,6 @@ Thermal equilibrium
 Process
 : A sequence of equilibrium states which connects two states.
 
-Reversible process: 
-: A reversible process has $ \Delta S_{universe} = 0 $, implying $\Delta S_{system} = - \Delta
-S_{surroundings}$. Any increase in the entropy of the system due to heat transfer is balanced by the decrease in entropy in the surroundings. The process can be reversed without leaving any change in the system or its surroundings. If heat is exchanged $ d Q_{system} = T d S_{system} $. This is often expressed $ d Q_{rev} = T d S $ to emphasize the heat transfer process is reversible. A reversible process is quasi-static, though this is not a sufficient condition (there must also be no irreversibilities which generate entropy)
-
-Second Law
-: For an isolated system, $ d S >= 0 $
 
 ## Heat engines
 Ideal cycle:
@@ -37,4 +31,41 @@ Subcritical Rankine cycle:
 Deaerator
 : A device which removes gases from liquid water after it comes out of the condenser.
 
+## Chapter 6
 
+thermal efficiency (of a heat engine):
+The work output divided by the heat input. 
+
+Second Law: Clausius Statement
+: No heat engine has a thermal efficiency of 100%
+
+Second Law: Kelvin-Planck Statement:
+: You cannot construct a machine whose only effect is to take heat from a low temperature reservoir to a high-temperature reservoir. 
+
+Reversible process: 
+: a reversible process is one which can be reversed without leaving any trace on its surroundings. They are useful to analyze because reversible processes are quasi-static (a system goes through a series of equilibrium states in a reversible process)
+
+Second Law
+: For an isolated system, $ d S >= 0 $
+
+== Chapter 7
+
+Exergy
+: the maximum useful work that could be obtained from a system at a given state. 
+
+Exergy destruction
+: Wasted work potential during a process as a result of irreversibilities
+
+Dead state
+: a system is in a dead state if it is in thermodynamic equilibrium with its environment. A system has zero exergy in a dead state. 
+
+Unavailable energy
+: the portion of energy that cannot be converted to work by even a reversible heat engine.
+
+
+$$
+W_p = \eta_{carnot} * W 
+\\
+W_p = \eta_{carnot} * W 
+
+$$
