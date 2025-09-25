@@ -4,7 +4,7 @@ category: []
 tags: [energy, quotes]
 ---
 
-To this date, this is the best explanation of the Law of Conservation of Energy^[1]
+To this date, this is the best explanation of the Law of Conservation of Energy[^1]
 that I've come across:
 
 > “There is a fact, or if you wish, a law, governing natural phenomena that
