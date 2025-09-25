@@ -2,6 +2,7 @@
 title: Turbines extract work primarily from enthalpy, not kinetic energy of steam
 category: []
 tags: [applied thermodynamics]
+math: true
 ---
 
 A turbine increases the pressure of a gas and extracts work from it. For most turbines, the power is generated from the specific enthalpy drop rather than the change in velocity. 
