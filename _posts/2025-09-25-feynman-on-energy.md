@@ -4,8 +4,7 @@ category: []
 tags: [energy, quotes]
 ---
 
-To this date, this is the best explanation of the Law of Conservation of Energy[^1]
-that I've come across:
+To this date, this is the best explanation of the Law of Conservation of Energy[^1] that I've come across:
 
 > “There is a fact, or if you wish, a law, governing natural phenomena that
 are known to date. There is no known exception to this law; it is exact,
@@ -19,4 +18,5 @@ fact that we can calculate some number, and when we finish watching
 nature go through her tricks and calculate the number again, it is the
 same.”
 \- Richard Feynman
+
 [^1]: https://en.wikipedia.org/wiki/Conservation_of_energy
