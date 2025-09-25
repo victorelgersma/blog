@@ -1,5 +1,5 @@
 ---
-title: What problems are there in defining science as originating in 17th century Europe?
+title: Did Science Start in 17th Century Europe?
 category: [hps]
 tags: []
 ---
