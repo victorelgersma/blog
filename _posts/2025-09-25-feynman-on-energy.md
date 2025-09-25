@@ -19,4 +19,4 @@ fact that we can calculate some number, and when we finish watching
 nature go through her tricks and calculate the number again, it is the
 same.”
 \- Richard Feynman
-[1]: https://en.wikipedia.org/wiki/Conservation_of_energy
+[^1]: https://en.wikipedia.org/wiki/Conservation_of_energy
