@@ -14,9 +14,13 @@ $$
 
 Consider some typical values for a (superheated steam) turbine:
 
-$\Delta h = 1000kJ/kg$
-$v=50m/s$
-$P=20MW$
+\[
+\begin{aligned}
+\Delta h &= 1000\,\mathrm{kJ/kg} \\
+v &= 50\,\mathrm{m/s} \\
+P &= 20\,\mathrm{MW}
+\end{aligned}
+\]
 
 note that specific enthalpy actual has the same dimensionality as the square of velocity, i.e 
 
